@@ -1,0 +1,8 @@
+name: WAILA
+main: com.arrayprolc.waila.Main
+version: 1.0.0
+description: >
+             Placeholder
+commands:
+  cmd:
+    description: Placeholder
